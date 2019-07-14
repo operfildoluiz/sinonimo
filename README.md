@@ -15,7 +15,7 @@
 ## Install
 
 ```sh
-yarn or npm install
+yarn add sinonimo or npm install sinonimo
 ```
 
 ## Usage
