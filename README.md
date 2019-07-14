@@ -29,6 +29,8 @@ const array = await sinonimo('Legal')
 
 ```
 
+**NOTE**: Sinonimo is asynchronous. You must handle it using async/await or Promises.
+
 ## Author
 
 👤 **Luiz Gonçalves**
