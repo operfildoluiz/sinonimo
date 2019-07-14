@@ -1,7 +1,7 @@
 {
   "name": "sinonimo",
   "version": "1.0.0",
-  "description": "Sinonimo é um pacote Node que traz sinonimos de palavras em português",
+  "description": "Sinonimo é um pacote Node que traz sinônimos de palavras em português",
   "main": "index.js",
   "repository": "git@github.com:lhcgoncalves/sinonimo.git",
   "author": "Luiz Gonçalves",
